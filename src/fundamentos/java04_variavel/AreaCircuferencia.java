@@ -1,4 +1,4 @@
-package fundamentos.variavel;
+package fundamentos.java04_variavel;
 
 public class AreaCircuferencia {
     public static void main(String[] args) {
